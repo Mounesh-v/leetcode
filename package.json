@@ -11,8 +11,11 @@
     "check": "node --check leetsolve.js"
   },
   "dependencies": {
+    "adm-zip": "^0.5.17",
+    "docx": "^8.5.0",
     "groq-sdk": "^1.2.0",
-    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.12.0",
+    "pdf2json": "^4.0.3",
     "puppeteer": "^24.43.1"
   }
 }
